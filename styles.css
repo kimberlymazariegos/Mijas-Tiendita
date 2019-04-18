@@ -1,0 +1,33 @@
+h1{font-size:75px;
+    border:solid white 12px;
+    }
+h2{font-size:50px;
+    }
+body{
+    background-color:#c99;
+    }
+.jay{   
+    display:flex;
+    align-content:space-around;
+     border:solid white 12px;
+    }
+.p1,.p2,.p3{
+    border:solid #c99 2px;
+    margin:10px;
+   font-size:35px;
+    width:400px;
+     }
+button{
+    width:200px;
+    height:30px;
+    border:solid 2px;
+    margin:50px;
+    color:white;
+    background-color:black;
+     }
+input{
+    width:350px;
+    height:30px;
+    border:solid 2px;
+    margin:20px;
+    }
